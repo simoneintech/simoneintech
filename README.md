@@ -1,7 +1,7 @@
-- 🔭 I’m currently working on a legal case predictive data model. 
-- 🌱 I’m currently learning how to create an alogrithm. 
-- 👯 I’m looking to collaborate on future machine learning projects.
+- 🔭 I’m currently working on learning advanced JavaScript and Python. 
+- 🌱 I’m currently learning how the backend works. 
+- 👯 I’m looking to collaborate on future projects.
 - 💬 What came first the chicken or the egg? The chicken. Always the chicken.
 - 📫 How to reach me: simone.tippett@yahoo.com
-- 😄 Pronouns: She/They
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: Coffee Addict. Sims 4 Gamer. Did you know you can't walk in a straight line without looking at something?
